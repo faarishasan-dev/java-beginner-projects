@@ -8,6 +8,7 @@ This repository contains my journey of learning Java and Data Structures & Algor
 - Performs Addition, Subtraction, Multiplication, Division, Modulo
 - Handles division by zero
 - Built using Java (switch-case)
+- 📂 Code: ./calculator/FirstCalculator.java
 
 ## 🧠 Currently Learning
 - Arrays
