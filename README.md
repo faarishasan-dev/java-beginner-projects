@@ -10,6 +10,11 @@ This repository contains my journey of learning Java and Data Structures & Algor
 - Built using Java (switch-case)
 - 📂 Code: ./calculator/FirstCalculator.java
 
+ ### 2. Array Basics
+- Takes array input
+- Print elements
+- Finds maximum element
+
 ## 🧠 Currently Learning
 - Arrays
 - Problem Solving
